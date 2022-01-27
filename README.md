@@ -1,7 +1,7 @@
  ![](https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg) 
    
    
-# Working with Pathogen Genomes (Asia) (Virtual)
+# Working with Pathogen Genomes (Latin America) (Virtual)
 Hands-on training in genomic analysis of bacterial and eukaryotic pathogens
 
 ## Course overview
@@ -15,37 +15,41 @@ Each module will be introduced with a short talk, followed by hands-on worked ex
 
 The course is aimed at research scientists or clinicians/healthcare professionals based in institutes in Asia who are actively involved in, or soon to commence, relevant research on bacterial and eukaryotic pathogens. The course is free to attend for non-commercial applicants and limited bursaries are available to cover travel and accommodation expenses. The course will be taught in English.
 
-[Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/working-with-pathogen-genomes-vietnam-2021/)
+[Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/working-with-pathogen-genomes-latin-america-virtual-20220207/)
 
 ## Instructors
-- [Christine Boinett](https://www.sanger.ac.uk/person/boinett-christine/), Wellcome Sanger Institute, UK
-- [Claire Chewapreecha](https://www.tropicalmedicine.ox.ac.uk/team/claire-chewapreecha), Mahidol-Oxford Tropical Medicine Research Unit, Thailand
-- [Hao Chung The](https://www.linkedin.com/in/hao-chung-the-157457140/?originalSubdomain=vn), OUCRU, Ho Chi Minh City, Vietnam
-- Daryl Domman, University of New Mexico, USA
+- [Daryl Domman](https://hsc.unm.edu/medicine/departments/internal-medicine/programs-and-centers/global-health/research/pathogen-genomics.html), University of New Mexico, USA
+- [Fernan Aguero](https://www.trypanosomatics.org/authors/fernan/), Univ. Nacional de San Martín, Argentina
+- [Florencia Díaz Viraqué](https://www.researchgate.net/profile/Florencia-Diaz-Viraque), Institut Pasteur Montevideo, Uruguay
+- [Jose F. Tort](https://www.researchgate.net/profile/Jose-Tort), Univ. de la República, Uruguay
+- [Lionel Uran Landaburo](https://www.researchgate.net/profile/Lionel-Uran-Landaburu-2), Univ. Nacional de San Martín, Argentina
+- [Marcela Suarez Esquivel](https://www.researchgate.net/profile/Marcela-Suarez-Esquivel), Univ. Nacional, Costa Rica
+- [Rodrigo Quiroga](https://www.conicet.gov.ar/new_scp/detalle.php?id=36602%20[conicet.gov.ar]), Univ. Nacional de Córdoba, Argentina
+- [Sophie Belman](https://www.sanger.ac.uk/person/belman-sophie/), Wellcome Sanger Institute, UK
 - [Steve Doyle](https://www.sanger.ac.uk/person/doyle-stephen/), Wellcome Sanger Institute, UK
-- [Adam Reid](https://www.sanger.ac.uk/person/reid-adam-james/), (Lead Instructor) Wellcome Sanger Institute, UK
-- Pham Thanh Duy, OUCRU, Ho Chi Minh City, Vietnam
+- [Sushmita Sridhar](https://www.massgeneral.org/medicine/infectious-diseases/research-and-initiatives/harris-and-larocque-laboratory/), Massachusetts General Hospital/Harvard Medical School, USA
+
 
 ## Timetable
 ### Overview
-- Friday 7th
+- Wednesday 2nd
   - Introductions
-- Monday 10th
+- Monday 7th
   - Module 1 - Artemis
   - Module 2 - Linux & Scripting
-- Tuesday 11th
+- Tuesday 8th
   - Module 3 - Short read mapping
-- Wednesday 12th
+- Wednesday 9th
   - Module 4 - Phylogenetics
   - Module 5 - Genome assembly  
-- Thursday 13th
+- Thursday 10th
   - Module 6 - Transcriptomics
   - Eukaryotic exercise
-- Friday 14th
+- Friday 11th
   - Bacterial exercise   
 
 ### Detailed timetable
-[Download here](./Vietnam_2021_virtual_timetable.xlsx)
+[Download here]()
 
 
 ## Course manual
